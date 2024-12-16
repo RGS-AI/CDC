@@ -29,7 +29,7 @@ Markdown==3.7
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 mdurl==0.1.2
-ml_dtypes==0.5.0
+ml_dtypes==0.4.0
 narwhals==1.18.4
 numpy==1.26.1
 oauthlib==3.2.2
