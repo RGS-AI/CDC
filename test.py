@@ -4,11 +4,11 @@ from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.image import load_img, img_to_array
 
 # Load the trained model
-model = load_model('../CDCApp/Models/cdcmodel.keras')
+model = load_model('../CDCApp/Models/best_model.h5')
 
-model.compile(optimizer='adam', 
-              loss='sparse_categorical_crossentropy', 
-              metrics=['accuracy'])
+#model.compile(optimizer='adam', 
+              #loss='sparse_categorical_crossentropy', 
+              #metrics=['accuracy'])
 
 # Function to make predictions
 def predict_defect(image_path, model):
