@@ -4,7 +4,7 @@ from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.image import load_img, img_to_array
 
 # Load the trained model
-model = load_model('../Models/best_model.h5')
+model = load_model('Models/best_model.h5')
 
 #model.compile(optimizer='adam', 
               #loss='sparse_categorical_crossentropy', 
