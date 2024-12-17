@@ -21,7 +21,7 @@ def predict_defect(image_path, model):
         return 'Not Defective!'
 
 # Streamlit App
-st.title("Casting Defect Classification")
+st.title("Cast Defect Classification")
 st.write("Upload an image of the casted metal to classify whether it is defective or not.")
 
 # File uploader
