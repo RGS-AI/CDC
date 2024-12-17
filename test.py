@@ -22,7 +22,7 @@ def predict_defect(image_path, model):
 
 # Streamlit App
 st.title("Cast Defect Classification of Pump Impeller")
-st.write("Upload an image of the casted metal to classify whether it is defective or not.")
+st.write("Upload an image of the cast metal to classify whether it is defective or not.")
 
 # File uploader
 uploaded_file = st.file_uploader("Choose an image", type=["jpg", "jpeg", "png"])
