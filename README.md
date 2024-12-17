@@ -1,5 +1,5 @@
 # CDC
-Cast Defect Model using CNN
+## Cast Defect Model using CNN for Submersible Pump Impeller
 
 Introduction:
 Casting is a manufacturing process where molten metal is poured into a mold and allowed to solidify, forming a desired shape. It is widely used in industries like automotive, aerospace, and machinery due to its ability to produce complex shapes cost-effectively.
