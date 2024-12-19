@@ -24,4 +24,11 @@ The dataset is imported from Kaggle, and is trained with CNN model having 2 Conv
 A Huge shout out to the dataset provider ravirajsinhdabhi86@gmail.com - https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product/data
 Thanks to https://www.kaggle.com/code/sayooj98/gear-fault-diagnosis-using-cnn/notebook for the idea behind it and coding part. 
 
-The same is deployed for application. Will be back with the link.
+My future edit shall include but not limited to early stopping, learning rate and transfer learning.
+
+The same is deployed for application. 
+https://www/testcdc.streamlit.io
+
+Thank you,
+
+RMS
