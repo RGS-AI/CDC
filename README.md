@@ -27,7 +27,7 @@ Thanks to https://www.kaggle.com/code/sayooj98/gear-fault-diagnosis-using-cnn/no
 My future edit shall include but not limited to early stopping, learning rate and transfer learning.
 
 The same is deployed for application. 
-https://www/testcdc.streamlit.io
+https://www.testcdc.streamlit.io
 
 Thank you,
 
